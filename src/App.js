@@ -18,8 +18,8 @@ function App() {
                 <Routes>
                     <Route path="/" element={<LayoutMainMenu/>}>
                         <Route index element={<Home/>}/>
-                        <Route path="/TeacherPaper" element={<TeacherPaper/>}/>
-                        <Route path="/Digital" element={<Digital/>}/>
+                        <Route path="/TeacherPaper/*" element={<TeacherPaper/>}/>
+                        <Route path="/Digital/*" element={<Digital/>}/>
                         {/*<Route path=":section/:subsection" element={<LayoutArticles/>}/>*/}
                         <Route path="/:section/:subsection/:article" element={<ArticleLoader/>}/>
                         <Route path="/MiddleSchool/*" element={<MiddleSchool/>}/>
