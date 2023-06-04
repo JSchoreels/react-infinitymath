@@ -1,0 +1,11 @@
+@use 'src/theme';
+
+.article a {
+  text-align: center;
+  padding: 5px;
+  margin: 10px auto;
+  color: white;
+  width: 100px;
+  background-color: theme.$secondary-accent-color;
+  border-radius: 5px;
+}
