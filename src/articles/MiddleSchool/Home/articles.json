@@ -1,9 +1,149 @@
 [
   {
-    "title": "Back to School : Notebook",
-    "description": "This is the notebook that you can use for your next Back to School Activity ! Enjoy !",
-    "img_src": "backtoschool_notebook.svg",
-    "flexGrow": 4,
-    "link": "Article2"
+    "title": "Back to School",
+    "description": "In this article, you will find an activity to start the school year with your students.",
+    "img_src": "AFFICHE ARTICLE.jpg",
+    "flexGrow": 1,
+    "link": "Middle school1"
+  },
+  {
+    "title": "Halloween Sudoku",
+    "description": "In this article, you will find an activity to discover sudoku with your students.",
+    "img_src": "AFFICHE ARTICLE-2.jpg",
+    "flexGrow": 1,
+    "link": "Middle school2"
+  },
+  {
+    "title": "Halloween Tangram",
+    "description": "In this article, you will find an activity to discover tangrams with your students.",
+    "img_src": "AFFICHE ARTICLE.png",
+    "flexGrow": 1,
+    "link": "Middle school3"
+  },
+  {
+    "title": "The Halloween Investigation",
+    "description": "In this article, you will find an escape game to make with your students.",
+    "img_src": "AFFICHE ARTICLE-7.png",
+    "flexGrow": 1,
+    "link": "Middle school4"
+  },
+  {
+    "title": "Christmas Sudoku",
+    "description": "In this article, you will find an activity to discover sudoku with your students.",
+    "img_src": "AFFICHE ARTICLE-3.png",
+    "flexGrow": 1,
+    "link": "Middle school5"
+  },
+  {
+    "title": "Christmas Tangram",
+    "description": "In this article, you will find an activity to discover tangrams with your students.",
+    "img_src": "AFFICHE ARTICLE-2.png",
+    "flexGrow": 1,
+    "link": "Middle school6"
+  },
+  {
+    "title": "Christmas Notebook",
+    "description": "In this article, you will find a notebook of logical activities to carry out before the Christmas holidays with your students.",
+    "img_src": "AFFICHE ARTICLE-3.jpg",
+    "flexGrow": 1,
+    "link": "Middle school7"
+  },
+  {
+    "title": "The Christmas Investigation",
+    "description": "In this article, you will find an escape game to make with your students.",
+    "img_src": "AFFICHE ARTICLE-6.png",
+    "flexGrow": 1,
+    "link": "Middle school8"
+  },
+  {
+    "title": "Easter Notebook",
+    "description": "In this article, you will find a notebook of logical activities to carry out before the Easter holidays with your students.",
+    "img_src": "AFFICHE ARTICLE-4.png",
+    "flexGrow": 1,
+    "link": "Middle school9"
+  },
+  {
+    "title": "End of the year - Notebook",
+    "description": "In this article, you will find a notebook of logical activities to carry out before the summer holidays with your students.",
+    "img_src": "AFFICHE ARTICLE-5.png",
+    "flexGrow": 1,
+    "link": "Middle school10"
+  },
+  {
+    "title": "The Last Week - DAY #1",
+    "description": "In this article, you will find a notebook to discover Fibonacci with your students.",
+    "img_src": "AFFICHE ARTICLE-8.png",
+    "flexGrow": 1,
+    "link": "Middle school11"
+  },
+  {
+    "title": "The Last Week - DAY #2",
+    "description": "In this article, you will find a notebook to exploit a documentary in class.",
+    "img_src": "AFFICHE ARTICLE-4.jpg",
+    "flexGrow": 1,
+    "link": "Middle school12"
+  },
+  {
+    "title": "The Last Week - DAY #3",
+    "description": "In this article, you will find a notebook to discover Platonic Solids with your students.",
+    "img_src": "AFFICHE ARTICLE-5.jpg",
+    "flexGrow": 1,
+    "link": "Middle school13"
+  },
+  {
+    "title": "The Last Week - DAY #4",
+    "description": "In this article, you will find a riddles book for your students.",
+    "img_src": "AFFICHE ARTICLE-6.jpg",
+    "flexGrow": 1,
+    "link": "Middle school14"
+  },
+  {
+    "title": "The Last Week - DAY #5",
+    "description": "In this article, you will find a logic game to perform in class.",
+    "img_src": "AFFICHE ARTICLE-7.jpg",
+    "flexGrow": 1,
+    "link": "Middle school15"
+  },
+  {
+    "title": "Task Cards - Designs",
+    "description": "In this article, you will find different templates to easily create your own Task Cards.",
+    "img_src": "AFFICHE ARTICLE-8.jpg",
+    "flexGrow": 1,
+    "link": "Middle school16"
+  },
+  {
+    "title": "Chess Activities #1",
+    "description": "In this article, you will find an activity to discover chess with your students. ",
+    "img_src": "AFFICHE ARTICLE-13.jpg",
+    "flexGrow": 1,
+    "link": "Middle school17"
+  },
+  {
+    "title": "Chess Activities #2",
+    "description": "In this article, you will find a second activity to discover chess with your students. ",
+    "img_src": "AFFICHE ARTICLE-9.jpg",
+    "flexGrow": 1,
+    "link": "Middle school18"
+  },
+  {
+    "title": "Fun Activities - Notebook",
+    "description": "In this article, you will find 54 logical activities to do with your students. ",
+    "img_src": "AFFICHE ARTICLE-10.jpg",
+    "flexGrow": 1,
+    "link": "Middle school19"
+  },
+  {
+    "title": "Commercial Game",
+    "description": "In this article, you will find the commercial games that I use in class. ",
+    "img_src": "AFFICHE ARTICLE-12.jpg",
+    "flexGrow": 1,
+    "link": "Middle school20"
+  },
+  {
+    "title": "Geomatric Material",
+    "description": "In this article, you will find the geometric materials that I use in class. ",
+    "img_src": "AFFICHE ARTICLE-14.jpg",
+    "flexGrow": 1,
+    "link": "Middle school21"
   }
 ]
