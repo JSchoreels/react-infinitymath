@@ -1,5 +1,3 @@
-import fileToDownload from '../../../assets/infinitymath.pdf'
-
 function Article1() {
     return (<>
         <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -11,7 +9,7 @@ function Article1() {
             est
             laborum."
         </p>
-        <a href={fileToDownload} download="NomFichier.pdf">Download the PDF !</a>
+        <a href="/assets/infinitymath.pdf" download="NomFichier.pdf">Download the PDF !</a>
     </>)
 }
 
