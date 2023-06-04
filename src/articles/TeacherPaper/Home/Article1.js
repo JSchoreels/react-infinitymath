@@ -9,7 +9,7 @@ function Article1() {
             est
             laborum."
         </p>
-        <a href="/assets/infinitymath.pdf" download="NomFichier.pdf">Download the PDF !</a>
+        <a href="/assets/infinitymath.pdf" download>Download the PDF !</a>
     </>)
 }
 
