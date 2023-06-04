@@ -14,15 +14,11 @@
   }
 }
 
-.article-card img {
-  max-width: 100%;
-  align-self: center; // To avoid stretching issue
-}
-
 .article-card .poster {
   border-radius: 10px;
   margin: 1px;
   align-self: center;
+  max-width: 100%;
 
 }
 
