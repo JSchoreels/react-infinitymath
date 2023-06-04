@@ -2,13 +2,14 @@
 
 .article-card {
   border-radius: 5vh;
-  width: 90vw;
+  //width: 90vw;
   //min-width: 350px;
   margin: 30px auto;
 }
 
 .article-card .preview {
   display: flex;
+  flex-direction: column;
   @media screen and (width < 768px) {
     flex-direction: column;
   }

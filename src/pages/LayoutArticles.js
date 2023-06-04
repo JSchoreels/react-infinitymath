@@ -2,6 +2,7 @@ import {Outlet, Link, useParams} from "react-router-dom";
 import React, {lazy} from "react";
 import ArticleCard from "./ArticleCard"
 import NoPage from "./NoPage";
+import "./LayoutArticles.scss"
 
 const LayoutArticles = (props) => {
     let {section, subsection} = useParams();
