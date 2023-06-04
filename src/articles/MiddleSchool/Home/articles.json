@@ -21,13 +21,6 @@
     "link": "Middle school3"
   },
   {
-    "title": "The Halloween Investigation",
-    "description": "In this article, you will find an escape game to make with your students.",
-    "img_src": "AFFICHE ARTICLE-7.png",
-    "flexGrow": 1,
-    "link": "Middle school4"
-  },
-  {
     "title": "Christmas Sudoku",
     "description": "In this article, you will find an activity to discover sudoku with your students.",
     "img_src": "AFFICHE ARTICLE-3.png",
@@ -47,13 +40,6 @@
     "img_src": "AFFICHE ARTICLE-3.jpg",
     "flexGrow": 1,
     "link": "Middle school7"
-  },
-  {
-    "title": "The Christmas Investigation",
-    "description": "In this article, you will find an escape game to make with your students.",
-    "img_src": "AFFICHE ARTICLE-6.png",
-    "flexGrow": 1,
-    "link": "Middle school8"
   },
   {
     "title": "Easter Notebook",

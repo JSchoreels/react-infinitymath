@@ -12,6 +12,7 @@ function MiddleSchool1() {
 
         <p>The file contains 9 riddles with the correction and is FREE.</p>
         <img src={affichearticle}/>
+        <a href="/assets/BACK%20TO%20SCHOOL%20NOTEBOOK.pdf" download>Download the PDF !</a>
     </>)
 }
 

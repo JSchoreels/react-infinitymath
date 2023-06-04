@@ -3,6 +3,7 @@
 .article {
   background-color: theme.$background-color;
   margin: 50px auto;
+  padding: 10px;
   border-radius: 25px;
   width: 800px;
   @media screen and (max-width: 768px) {
@@ -24,6 +25,8 @@
   border-radius: 5px;
 }
 
-.article img {
-  max-width: 80%;
+.article img, .article iframe {
+  margin: 20px auto;
+  max-width: 50%;
+  display: block;
 }
