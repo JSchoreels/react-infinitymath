@@ -1,7 +1,7 @@
 @use 'src/theme';
 
 .Menu {
-  z-index: 11;
+  z-index: 21;
   position: sticky;
   top: 0;
   padding: 0 20px;
@@ -13,20 +13,20 @@
   justify-content: center;
   column-gap: 40px;
   align-items: center;
+}
+
+.MainMenu {
+  min-height: 30px;
   @media screen and (max-width: 768px){
     flex-direction: column;
   }
 }
 
-.MainMenu {
-  min-height: 30px;
-}
-
 .SubMenu {
   display: inline-flex;
   top: 30px;
-  //width: 100%;
-  border-radius: 20px;
+  width: 100%;
+  //border-radius: 20px;
   border: 1px solid black;
 }
 
@@ -46,10 +46,10 @@
     right: 5px;
     filter: drop-shadow(2px 2px 1px rgb(0 0 0 / 1.0));
   }
-
-  .SubMenu {
-    flex-direction: column;
-  }
+  //
+  //.SubMenu {
+  //  flex-direction: column;
+  //}
 }
 
 
