@@ -9,6 +9,7 @@
 
 .article-card .preview {
   display: flex;
+  align-items: flex-start;
   @media screen and (width < 768px) {
     flex-direction: column;
   }
