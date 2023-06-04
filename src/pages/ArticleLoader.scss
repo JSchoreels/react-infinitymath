@@ -1,5 +1,9 @@
 @use 'src/theme';
 
+.article h1 {
+  color: theme.$secondary-accent-color;
+}
+
 .article a {
   text-align: center;
   padding: 5px;
@@ -8,4 +12,8 @@
   width: 100px;
   background-color: theme.$secondary-accent-color;
   border-radius: 5px;
+}
+
+.article img {
+  max-width: 80%;
 }

@@ -69,8 +69,8 @@ nav ul {
 }
 
 .footer p{
-  margin: 1em;
+  margin: 0;
   padding: 0;
-  color: black;
-  background: white;
+  color: theme.$title-accent-color;
+  background: theme.$main-accent-color;
 }
