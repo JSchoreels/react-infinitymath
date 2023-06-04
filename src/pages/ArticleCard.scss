@@ -9,7 +9,6 @@
 
 .article-card .preview {
   display: flex;
-  align-items: flex-start;
   @media screen and (width < 768px) {
     flex-direction: column;
   }
@@ -18,11 +17,8 @@
 .article-card .poster {
   border-radius: 10px;
   margin: 1px;
-  align-self: center;
   max-width: 100%;
   height: auto;
-  object-fit: contain;
-
 }
 
 .article-card:hover {
