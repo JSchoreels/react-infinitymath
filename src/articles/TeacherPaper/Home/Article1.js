@@ -1,4 +1,4 @@
-import fileToDownload from '../../../../public/assets/infinitymath.pdf'
+import fileToDownload from '../../../assets/infinitymath.pdf'
 
 function Article1() {
     return (<>
