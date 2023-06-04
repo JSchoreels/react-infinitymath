@@ -16,6 +16,7 @@
 
 .article-card img {
   max-width: 100%;
+  align-self: center; // To avoid stretching issue
 }
 
 .article-card .poster {
