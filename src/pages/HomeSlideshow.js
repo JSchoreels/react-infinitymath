@@ -1,8 +1,8 @@
 import {Slide} from "react-slideshow-image";
 import 'react-slideshow-image/dist/styles.css'
-import slide1 from '../img/carousel/slide1.jpg'
-import slide2 from '../img/carousel/slide2.jpg'
-import slide3 from '../img/carousel/slide3.jpg'
+import slide1 from '../img/carousel/AFFICHE ARTICLE-83.jpg'
+import slide2 from '../img/carousel/AFFICHE ARTICLE-84.jpg'
+import slide3 from '../img/carousel/AFFICHE ARTICLE-85.jpg'
 
 const imgStyle = {
     width: "100%",
