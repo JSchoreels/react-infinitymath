@@ -1,5 +1,20 @@
 @use 'src/theme';
 
+.article {
+  background-color: theme.$background-color;
+  margin: 50px auto;
+  padding: 10px;
+  border-radius: 25px;
+  width: 800px;
+  @media screen and (max-width: 768px) {
+    width: 90%;
+  }
+}
+
+.article h1 {
+  color: theme.$secondary-accent-color;
+}
+
 .article a {
   text-align: center;
   padding: 5px;
@@ -8,4 +23,10 @@
   width: 100px;
   background-color: theme.$secondary-accent-color;
   border-radius: 5px;
+}
+
+.article img, .article iframe {
+  margin: 20px auto;
+  max-width: 50%;
+  display: block;
 }

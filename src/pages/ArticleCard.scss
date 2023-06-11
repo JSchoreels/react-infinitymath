@@ -2,27 +2,24 @@
 
 .article-card {
   border-radius: 5vh;
-  width: 90vw;
+  //width: 90vw;
   //min-width: 350px;
   margin: 30px auto;
 }
 
 .article-card .preview {
   display: flex;
+  flex-direction: column;
   @media screen and (width < 768px) {
     flex-direction: column;
   }
 }
 
-.article-card img {
-  max-width: 100%;
-}
-
 .article-card .poster {
   border-radius: 10px;
   margin: 1px;
-  align-self: center;
-
+  max-width: 100%;
+  height: auto;
 }
 
 .article-card:hover {
@@ -39,7 +36,7 @@
 .article-card .description {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: start;
   @media screen and (max-width: 768px){
     font-size: 0.75em;
   }
@@ -50,7 +47,6 @@
   padding: 1px;
   margin: 10px;
   overflow: auto;
-  height: 25vw;
 }
 
 .article-card a {
