@@ -9,9 +9,9 @@ function MiddleSchoolMenu() {
     return (
         <>
             <nav className={"Menu SubMenu"}>
-                <NavLink to={"Grade6"}>Grade 6</NavLink>
-                <NavLink to={"Grade7"}>Grade 7</NavLink>
-                <NavLink to={"Grade8"}>Grade 8</NavLink>
+                <NavLink to={"Grade6"}>1 Commune</NavLink>
+                <NavLink to={"Grade7"}>2 Commune</NavLink>
+                <NavLink to={"Grade8"}>3 Commune</NavLink>
             </nav>
             <Outlet/>
         </>

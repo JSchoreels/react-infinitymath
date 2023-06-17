@@ -3,7 +3,7 @@ import {React} from "react";
 
 const TeacherPaper = () => {
     return (<>
-        <h1>Teacher Paper Test</h1>
+        <h1>Papier de l'enseignant</h1>
         <LayoutArticles section={'TeacherPaper'} subsection={'Home'}/>
         </>
     );

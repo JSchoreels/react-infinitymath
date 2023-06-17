@@ -1,4 +1,4 @@
 function Article2 () {
-    return <p> ceci est l'article 2</p>
+    return <p>En cours de réalisation...</p>
 }
 export default Article2

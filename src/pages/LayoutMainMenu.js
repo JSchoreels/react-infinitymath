@@ -21,10 +21,10 @@ const LayoutMainMenu = () => {
     return (
         <>
             <nav className={"Menu MainMenu"} onClick={() => setMenuActive(!menuActive)}>
-                <ExpandableNavLink menuActive={menuActive} to={"/"}>Home</ExpandableNavLink>
-                <ExpandableNavLink menuActive={menuActive} to={"/MiddleSchool"}>Middle School</ExpandableNavLink>
-                <ExpandableNavLink menuActive={menuActive} to={"/TeacherPaper"}>Teacher Paper</ExpandableNavLink>
-                <ExpandableNavLink menuActive={menuActive} to={"/Digital"}>Digital</ExpandableNavLink>
+                <ExpandableNavLink menuActive={menuActive} to={"/"}>Accueil</ExpandableNavLink>
+                <ExpandableNavLink menuActive={menuActive} to={"/MiddleSchool"}>Tronc Commun</ExpandableNavLink>
+                <ExpandableNavLink menuActive={menuActive} to={"/TeacherPaper"}>Papier de l'enseignant</ExpandableNavLink>
+                <ExpandableNavLink menuActive={menuActive} to={"/Digital"}>Numérique</ExpandableNavLink>
                 <FontAwesomeIcon className={"icon"} icon={faBars}/>
             </nav>
             <Outlet/>
